@@ -1,4 +1,4 @@
-# 
+# Secure 30+ AI Projects at UQAC scripts. Featuring AI-ethics and image-recognition — optimized for maximum performance.
 
 
 
